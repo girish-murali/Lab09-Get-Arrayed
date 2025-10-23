@@ -1,0 +1,2 @@
+int[] dataPoints = new int[100];
+System.out.println("Array 'dataPoints' created with length: " + dataPoints.length);
